@@ -1,5 +1,5 @@
 # scs-draw
-This repository contains the executable program and related files for SCS-Draw (or simply "Draw"), the drawing program for early 1980s Kaypro CP/M microcomputers.
+This repository contains the executable program and related files for SCS-Draw (or simply "Draw"), the drawing program for early 1980s Kaypro CP/M microcomputers. Note that SCS-Draw requires the "Kaypro graphics" character set that was used in 1984 and later Kaypro CP/M models.
 
 ![screenshot](images/screenshot.png)
 ## History
@@ -12,7 +12,7 @@ Harvey reached out to me in early 2023 and asked if I'd be interested in releasi
 
 Harvey graciously provided his own copy to use for this project, and he has also provided all of the artifacts you'll find in this repo, which are now published under the GNU GPLv3 license. In addition to handling technical details such as updating the executable to a new copyright message and scanning the user guide and related materials, he patiently helped me get MAME up and running and taught me how to Draw myself for the first time in nearly 30 years.
 
-Thank you, Harvey! The existence of this repo is a great gift to me, and I hope it brings some please to others in the Kaypro community as well.
+Thank you, Harvey! The existence of this repo is a great gift to me, and I hope it brings some pleasure to others in the Kaypro community as well.
 
 The remainder of this README contains brief descriptions of the files you'll find in this repo. You can also find information about some of these files in the [blog post](https://www.dougmahugh.com/scs-draw/) mentioned above.
 
@@ -43,7 +43,7 @@ A scanned copy of the first issue of the Second City Software newsletter. It inc
 Scanned images of the artwork for the slipcase that Draw shipped in.
 
 ### DRAW.IMD
-A MAME image of Draw, for those who want to run it in the MAME emulator.
+A disk image of Draw in the ImageDisk format developed by Dave Dunfield. [http://dunfield.classiccmp.org/img/](http://dunfield.classiccmp.org/img/)
 
 ### GPL-declaration.txt
 My declaration of the release of SCS-Draw as open source freeware under GNU GPLv3 on December 26, 2023.
