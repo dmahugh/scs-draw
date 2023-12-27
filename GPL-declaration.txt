@@ -1,0 +1,8 @@
+SCS-DRAW FREEWARE DECLARATION
+-----------------------------
+
+I, Doug Mahugh, creator and copyright holder of SCS-Draw, have declared SCS-Draw to be freeware under the terms of the GNU GPLv3 license. This means that you may freely use and distribute this program, and make improvements to it, provided that you also release your work under the GPLv3 license. SCS-Draw is free and open source software (FOSS), and any derivative works should be FOSS as well.
+
+This license applies retroactively to all versions of SCS-Draw, namely 1.0 and 1.1.
+
+-- Doug Mahugh, 2023-12-26
