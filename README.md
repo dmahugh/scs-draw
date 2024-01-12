@@ -27,6 +27,9 @@ Draw shipped with a library of 26 sample images contained in this file, to show 
 ### SETDRAW.COM
 This is a standalone executable that modifies DRAW.COM to specify a default printer from among the 10 supported dot-matrix and daisy-wheel printers.
 
+### EXTRACT.COM
+A standalone utility that extracts bitmap graphics from PrintMaster image libraries and puts them in SCS-Draw image libraries.
+
 ### User's Guide.pdf
 A scanned PDF of the 88-page printed user manual for Draw 1.0.
 
