@@ -1,0 +1,79 @@
+                  SCS-DRAW USER'S GUIDE ADDENDUM
+
+
+ONLINE HELP SCREENS FOR NEW FEATURES IN SCS-DRAW 1.1:
+
+Version 1.1 of SCS-Draw includes a variety of new commands to help you
+create and print images.  Also, several commands from Draw 1.0 have been
+enhanced.  These new commands and enhancements are described in Help
+Screens that you can view while you are using SCS-Draw.  To view the
+Help Screens for the new features, press H from the sketchpad.  Then
+follow the instructions on the screen for moving through the Help Screens.
+
+DIFFERENT PRINTER SELECTIONS:
+
+For some printer models, you need to use a different printer selection
+in Draw 1.1 than you used in Draw 1.0.
+
+    IF YOUR PRINTER MODEL IS          USE THIS PRINTER SELECTION
+      Star Gemini (all models)          Epson MX-80
+      Hewlett-Packard 2225 Thinkjet     Epson MX-80
+      Epson RX-80                       Epson MX-80
+      Epson RX-100                      Epson FX,LX,LQ series
+
+USING SETDRAW:
+
+The SETDRAW program installs your printer as the default in Draw. 
+Be sure to make a working copy of the SCS-Draw Master Disk before
+you use SETDRAW.  Then run SETDRAW on your working copy to set your
+printer as the default printer.  You should NOT run SETDRAW or make
+any other modifications to the Draw programs on the original Master Disk.
+
+CUSTOM PRINTER INSTALLATION:
+
+Most printers can use one of the printer selections provided with Draw.
+To set the default printer for one of these printer selections, you
+need only run SETDRAW, select the printer type, and press RETURN.
+
+In Draw 1.1, SETDRAW also offers a Custom Printer Installation option.
+If your printer does not work with any of the standard printer 
+installations, you can customize a printer selection. You must know
+the control codes your printer requires to print graphics. If you run
+SETDRAW and select the Custom Printer Installation, the program gives
+instructions for setting the printer control codes to the codes your
+printer requires.
+
+MAKING A WORKING COPY OF DRAW (on double-sided drives):
+
+SCS-Draw is provided on a single-sided disk, so that it can be used with
+any model of Kaypro computer.  If your Kaypro has double-sided drives,
+you need to use a procedure specifically designed for making a double-sided
+working copy from a single-sided SCS-Draw Master Disk.  If you have
+double-sided disk drives (as used on the 4'84, New 2, and 2X), follow
+the procedure in Appendix E, "Making a Working Copy," on pages 87-88
+of the SCS-Draw User's Guide, with the following exception.
+
+Added features in SCS-Draw 1.1 require that you make one modification
+to the copying procedure in Appendix E.  Step 5 on page 88 explains how
+to use PIP to copy each Draw program file individually.  Page 88, however,
+lists only three Draw files to copy.  Version 1.1 of SCS-Draw now includes
+additional program files.  Therefore, substitute the following commands
+for those shown in Step 5 so that you copy all seven Draw program files:
+
+               A:=B:DRAW.COM[OV]
+               A:=B:SAMPLE.DRW[OV]
+               A:=B:SETDRAW.COM[OV]
+               A:=B:PRINT.COM[OV]
+               A:=B:DRAWFONT[OV]
+               A:=B:DRAWHELP[OV]
+               A:=B:DRAWPACK[OV]
+
+KAYPRO 2'84 USERS (and others with single-sided disk drives):
+
+Your working copy of SCS-Draw will be almost completely full, so it will
+not have room to store new images that you create.  You can store images
+on a disk in the other disk drive, however, by simply putting the drive
+identifier before an image library name.  For example, if your working
+copy of the SCS-Draw disk is in drive A: and a blank (formatted) disk is
+in drive B:, enter DRAW B:MYSTUFF to open an image library called MYSTUFF
+on the disk in drive B:.

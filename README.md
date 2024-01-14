@@ -53,3 +53,6 @@ My declaration of the release of SCS-Draw as open source freeware under GNU GPLv
 
 ### LICENSE
 The GNU GPLv3 license file.
+
+### version1.1 folder
+This subfolder contains all of the files that came with SCS-Draw version 1.1. See the help screens and README for more information.
