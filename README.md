@@ -48,6 +48,9 @@ Scanned images of the artwork for the slipcase that Draw shipped in.
 ### DRAW.IMD
 A disk image of Draw in the ImageDisk format developed by Dave Dunfield. [http://dunfield.classiccmp.org/img/](http://dunfield.classiccmp.org/img/)
 
+### EXTRACT.IMD
+A disk image of Image Extractor in the ImageDisk format developed by Dave Dunfield. [http://dunfield.classiccmp.org/img/](http://dunfield.classiccmp.org/img/)
+
 ### GPL-declaration.txt
 My declaration of the release of SCS-Draw as open source freeware under GNU GPLv3 on December 26, 2023.
 
